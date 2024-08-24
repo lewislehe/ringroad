@@ -1,2 +1,7 @@
-*.ibc
-*.o
+node_modules/
+.DS_store
+*.log
+# public/
+TODO.md
+TODO
+# yarn.lock
